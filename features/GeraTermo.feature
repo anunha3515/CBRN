@@ -9,8 +9,6 @@ Funcionalidade: Gerar Termo
   Quero executar um roteiro automatizado
   Para criar Termos
 
-@deslogar_sigam
-
   Cenario: Criar Termo
   	Dado que esteja tela de cadastro do Sare
   	Quando preencher todos os campos do projeto

@@ -8,9 +8,7 @@ Funcionalidade: Gerar CAR sem UC
   Eu como usuario do sistema SiCAR
   Quero executar um roteiro automatizado
   Para criar CAR sem UC no ambiente de Homolog
-
-@deslogar_sigam
-
+  
   Cenario: Criar CAR sem UC Homolog
   	Dado que esteja preenchendo o cadastro do CAR
   	Quando preencher todas as informações requeridas

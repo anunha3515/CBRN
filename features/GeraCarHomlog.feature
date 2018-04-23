@@ -9,8 +9,6 @@ Funcionalidade: Gerar CAR UC ambiente de Homologacão
   Quero executar um script automatizado
   Para criar CAR UC no ambiente de Homolog
 
-@deslogar_sigam
-
   Cenario: Criar CAR UC Homolog
   	Dado que esteja na tela do CAR
   	Quando preencher todas as informações necessarias
